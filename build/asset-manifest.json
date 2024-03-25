@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/InvestmentTracker/static/css/main.b3b3211e.css",
+    "main.js": "/InvestmentTracker/static/js/main.dac61a73.js",
+    "static/media/investment-calculator-logo.png": "/InvestmentTracker/static/media/investment-calculator-logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/InvestmentTracker/index.html",
+    "main.b3b3211e.css.map": "/InvestmentTracker/static/css/main.b3b3211e.css.map",
+    "main.dac61a73.js.map": "/InvestmentTracker/static/js/main.dac61a73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b3211e.css",
+    "static/js/main.dac61a73.js"
+  ]
+}
